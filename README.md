@@ -1,2 +1,6 @@
 # A-Curious-Case-of-Household-Study
-The write-up illustrates the essential introduction to visualize any typical household survey data to understand the travel demand pattern of a region.
+The write-up illustrates the essential introduction to visualize any typical household survey data to understand the travel demand pattern of a region. I will try to explain step by step process I have found helpful to visualize and get some insight from the data. The dataset used in this sample study is a pseudo dataset from a real-world survey to highlight the heterogeneity through a small demographic sample. Let us draw up a real-world problem scenario and direct our analysis toward the deductible process. This helps us to understand our end goal and break down the possible data visualization and analytical tasks into several small steps.
+
+
+
+Let us assume the X Council of Governments (XCOG) evaluates whether the XCOG region should adopt telecommuting policy to reduce VMT. As their technical expert, you are tasked to perform a preliminary analysis of the region's travel characteristics and telecommuting behavior based on XCOG's regional data and the 2019 household travel survey. There are two spreadsheets, One contains XCOG's regional data, and the second file is the household travel survey provides details such as household characteristics (age, gender, income, number of vehicles, education, and occupation type) and travel characteristics (mode, telecommute frequency, one-way travel distance, travel time).
